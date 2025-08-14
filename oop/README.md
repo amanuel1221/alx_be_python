@@ -1,0 +1,2 @@
+## This is object oriented programming practice in ALX course 
+### In this directory i will explore and practice more about the inheritance,polymorphism,classes and so on the thisngs required for the classes.
